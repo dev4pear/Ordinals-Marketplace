@@ -1,0 +1,3 @@
+[submodule "src/modules/msigner"]
+	path = src/modules/msigner
+	url = https://github.com/magicoss/msigner
